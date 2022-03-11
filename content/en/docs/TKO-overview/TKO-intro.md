@@ -21,7 +21,7 @@ Tanzu Mission Control (TMC)
 Tanzu Observability (TO)  
 Tanzu Service Mesh Advanced (TSM)  
 Antrea   
-Avi Enterprise  
+NSX Advanced Load Balancer
 
 
 
