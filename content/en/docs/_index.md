@@ -1,6 +1,6 @@
 ---
-title: "ModernApps Ninja New Course Template"
-linkTitle: "New Course Template"
+title: "Intro to Tanzu for Kubernetes Operations"
+linkTitle: "Intro to TKO"
 weight: 20
 menu:
   main:
