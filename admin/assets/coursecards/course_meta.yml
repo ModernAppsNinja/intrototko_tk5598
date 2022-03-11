@@ -1,0 +1,28 @@
+---
+## This Document Provides the Front Matter and Metadata for the Course Information page used in the modernapps.ninja homepage and the member profile page.
+### Hugo Template Metadata
+title: "Intro to Tanzu for Kubernetes Operations"
+date: "2022-03-11T17:02:24Z"
+draft: true
+# meta description
+description: "Introduction to VMware Tanzu for Kubernetes Operations"
+# course thumbnail
+image: "https://modernapps.ninja/intrototko_tk5598/admin/assets/images/intrototko_tk5598.jpg"
+# taxonomy
+tags: ["Tanzu Portfiolio"]
+# teacher
+teacher: "Ninja Admins"
+# duration
+duration: "0 Hours"
+# course fee
+fee: "Free!"
+# apply url
+apply_url: "https://modernapps.github.io/intrototko_tk5598"
+# type
+type: "course"
+### Extended Ninja Course Metadata
+content_id: tk5598
+course_short_title: intrototko
+course_navbar_title: Intro to TKO
+course_repo_name: intrototko_tk5598
+---  
