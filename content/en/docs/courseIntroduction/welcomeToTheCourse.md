@@ -27,7 +27,7 @@ Tanzua for  Kubernetes Operations Contains:
 - Tanzu Mission Control (TMC) Advanced - Includes additional functionality around policies.   
 - Tanzu Service Mesh (TSM) Advanced.  
 - Antrea Advanced - Offers Tier RBAC policy control and Wavefront Integration.   
-- AVI Enterprise (aka AVI Vantage/NSX Advanced Load Balancer).  
+- NSX Advanced Load Balancer.  
 
 Thank you for investing your time!
 
