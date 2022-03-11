@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Intro to VMware Tanzu for Kubernetes Operations – Tanzu Kubernetes Operations Overview</title><link>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/</link><description>Recent content in Tanzu Kubernetes Operations Overview on Intro to VMware Tanzu for Kubernetes Operations</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Fri, 09 Oct 2020 03:23:55 -0700</lastBuildDate><atom:link href="https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/index.xml" rel="self" type="application/rss+xml"/><item><title>Docs: What is Tanzu Kubernetes Operations (TKO)</title><link>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-intro/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-intro/</guid><description>
+&lt;p>&lt;strong>What is Tanzu for Kubernetes Operations, or “TKO”&lt;/strong>&lt;/p>
+&lt;p>Tanzu for Kubernetes Operations includes a set of products and services specifically targeted to meet the needs of on-prem and cloud infrastructure teams.&lt;/p>
+&lt;p>TKO addresses:
+Developer self-service to the right infrastructure abstraction and app building blocks
+Automation and monitoring of cloud platform operations
+Enforcement of Networking, security and compliance requirements
+Platform operation cost optimization&lt;/p>
+&lt;p>TKO Includes:&lt;br>
+Tanzu (Kubernetes Grid TKG)&lt;br>
+Tanzu Mission Control (TMC)&lt;br>
+Tanzu Observability (TO)&lt;br>
+Tanzu Service Mesh Advanced (TSM)&lt;br>
+Antrea&lt;br>
+Avi Enterprise&lt;/p></description></item><item><title>Docs: Getting Started with Tanzu Kubernetes Operations Part 1</title><link>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-overview/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-overview/</guid><description>
+&lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/Px1buT62NrI" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Docs: Getting Started with Tanzu Kubernetes Operations Part 2</title><link>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-overview2/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-overview2/</guid><description>
+&lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/kTvQOxnQ5kA" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div></description></item><item><title>Docs: Tanzu Kubernetes Operations Demo</title><link>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-demo/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/tko-demo/</guid><description>
+&lt;p>&lt;strong>Remember to right click the link to open the video in a new tab&lt;/strong>&lt;/p>
+&lt;p>[Tanzu Kubernetes Operations Quick Demo]
+&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
+&lt;iframe src="https://www.youtube.com/embed/I39j_3tPqhw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" allowfullscreen title="YouTube Video">&lt;/iframe>
+&lt;/div>
+&lt;/p></description></item><item><title>Docs: TKO Overview Section Summary</title><link>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/sectionsummary/</link><pubDate>Mon, 12 Oct 2020 18:40:26 -0700</pubDate><guid>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/sectionsummary/</guid><description>
+&lt;p>You have reached the end of this section. Please use the navigation bar to proceed to the next section.&lt;/p></description></item><item><title>Docs: Additional Tanzu Kubernetes Operations Resources</title><link>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/additonalresources/</link><pubDate>Mon, 12 Oct 2020 18:34:25 -0700</pubDate><guid>https://modernappsninja.github.io/intrototko_tk5598/docs/tko-overview/additonalresources/</guid><description>
+&lt;p>&lt;strong>Remember to right click the link to open the docs and video in a new tab&lt;/strong>&lt;/p>
+&lt;p>If you are interested in learning more about Tanzu Kubernetes Operations:&lt;/p>
+&lt;p>&lt;a href="https://pathfinder.vmware.com/v3/path/tko_path/section/step1/activity/tanzu_kubernetes_operations">VMware Tanzu Kubernetes Operations Pathfinder Lab &lt;/a>&lt;/p>
+&lt;p>VMware Hands On Labs #2234&lt;/p></description></item></channel></rss>
