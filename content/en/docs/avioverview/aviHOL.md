@@ -1,5 +1,5 @@
 ---
-title: "Try the AVI Hands On Lab"
+title: "Try the NSX Advanced Load Balancer Hands On Lab"
 date: 2020-10-12T18:34:25-07:00
 weight: 6090
 ---
